@@ -1,4 +1,6 @@
 3) sudo apt-get install gcc make perl -y   - установили пакет
 5)  sudo apt-get install openssh-server -y  - Поставили на Ubuntu SSH сервер
     ssh alienlama@192.168.56.102 - Теперь можем работать на Ubuntu из своего терминала на W10
-    
+    sudo apt-get install ufw - Установили ufw
+    sudo ufw enable - Включили UFW 
+    sudo ufw status verbose - проверили состояние UFW
