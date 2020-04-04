@@ -25,6 +25,9 @@
 4)  sudo adduser superuser  -добавили пользователя
     sudo usermod -aG sudo superuser -присоединяем его к группе суперпользователя
     sudo su sueruser    -логинимся
+    
+    
+!!! Не успела отправить домашнее задание со второго урока, если еще возможно, проверьте пожалуйста =) https://github.com/AlienLama/LinuxUbuntu/blob/master/Lesson2
    
     
     
